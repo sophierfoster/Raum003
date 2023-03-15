@@ -713,7 +713,18 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "class":"",
+                 "height":61.6673,
+                 "id":51,
+                 "name":"clockPopup",
+                 "rotation":0,
+                 "visible":true,
+                 "width":93.7162,
+                 "x":786.919,
+                 "y":863.0269
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -912,7 +923,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":51,
+ "nextobjectid":52,
  "orientation":"orthogonal",
  "properties":[
         {
